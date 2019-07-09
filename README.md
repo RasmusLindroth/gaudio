@@ -1,7 +1,7 @@
 # gaudio
 
 A quick and dirty hack with pulseaudio to change the current active soundcard
-with [gtoggle](./gtoggle) and change the volume with [gvol](./gvol).
+with [gtoggle](./cmd/gtoggle) and change the volume with [gvol](./cmd/gvol).
 
 I use it with i3 so I can change all this from the keyboard. My config: 
 
